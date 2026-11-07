@@ -2,9 +2,7 @@
 
 > In a sophisticated MATLAB and Simulink simulation, I had employed Genetic Algorithm (GSA) and Particle Swarm Optimization (PSO) algorithms to regulate a solar system with the goal of optimizing electric power generation
 
-**Category:** SOLAR · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/ej-jp/perovskino.git · **Pinned commit:** `e1a9efe3536609413e712af3c81a502d640cbdc1` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/ej-jp/perovskino.git` as the implementation for the `MPPT_ALGORITHMS` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** SOLAR · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/bob3214y3/Mppt-system · **Pinned commit:** `029ea726616f2c0bf18c3b7465d6bfc06f2c233a` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
@@ -62,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-c6e2b59b3b4c5e960037c520023e0e458c211517ad9fb952d021da46a4d6bec7
+450b9ba7bdec405c029cd362dd1d7d367a5e39c7d2117925713ca212ed17b084
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.

@@ -540,10 +540,11 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "e1a9efe3536609413e712af3c81a502d640cbdc1",
-   "url": "https://github.com/ej-jp/perovskino.git",
+   "url": "https://github.com/bob3214y3/Mppt-system",
+   "head": "029ea726616f2c0bf18c3b7465d6bfc06f2c233a",
    "branch": "master",
-   "sha_verified_from": "local .git HEAD | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "sha_verified_from": "permissive resolve 2026-10-16: MIT/Apache genre match",
+   "previous_upstream": "https://github.com/ej-jp/perovskino.git"
   }
  }
 }
